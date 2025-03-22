@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/a25fbfda-3742-4554-8f7e-a4917120aea2
 https://github.com/user-attachments/assets/8f58f1f1-19a9-43d3-917a-540c5a263047
 
 
-6. A popup should come up that will have "open". Be sure to click "open", then wait a few seconds for the application to run. From now on, you can double click the application in our downloads folder (or wherever you have it saved) to reopen it. 
+6. A popup should come up that will have "open". Be sure to click "open", then wait a few seconds for the application to run. From now on, you can double click the application in your downloads folder (or wherever you have it saved) to reopen it. 
 
 
 
