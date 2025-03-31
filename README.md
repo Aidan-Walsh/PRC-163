@@ -1,5 +1,5 @@
 # PRC-163 simulator
-This tool helps you practice your programming skills on the PRC-163. It gives you an objective, and lets you test yourself to see if you programmed it correctly. You can also restart/refresh to give yourself a new objective. If you encounter any bugs or have any recommendations for updates, feel free to email aidanwalsh123@yahoo.com. Below is a guide on how to get started with video assistance. 
+This tool helps you practice your programming skills on the PRC-163. It gives you an objective, and lets you test yourself to see if you programmed it correctly. You can also restart/refresh to give yourself a new objective. If you encounter any bugs or have any recommendations for updates, feel free to email aidanwalsh123@yahoo.com. Below is a guide on how to get started with video assistance, for both Mac and Windows users. 
 
 # How to Get Started on Mac (takes no more than 5 minutes) 
 1. First, download the application Zip. Double click in your downloads folder to unzip it to create the application.
@@ -28,6 +28,8 @@ https://github.com/user-attachments/assets/8f58f1f1-19a9-43d3-917a-540c5a263047
 
 
 6. A popup should come up that will have "open". Be sure to click "open", then wait a few seconds for the application to run. From now on, you can double click the application in your downloads folder (or wherever you have it saved) to reopen it.
+
+# How to Get Started on Windows (takes no more than 5 minutes)
 
 
 # A quick preview
