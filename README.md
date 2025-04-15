@@ -2,7 +2,7 @@
 This tool helps you practice your programming skills on the PRC-163. It gives you an objective, and lets you test yourself to see if you programmed it correctly. You can also restart/refresh to give yourself a new objective. If you encounter any bugs or have any recommendations for updates, feel free to email aidanwalsh123@yahoo.com. Below is a guide on how to get started with video assistance, for both Mac and Windows users. 
 
 # How to Get Started on Mac (takes no more than 5 minutes) 
-1. First, download the application Zip. Double click in your downloads folder to unzip it to create the application.
+1. First, download the application Zip called "comms.app.zip". Double click in your downloads folder to unzip it to create the application.
 
 
 https://github.com/user-attachments/assets/dcca7d75-f504-432e-b881-a9178f08a4de
